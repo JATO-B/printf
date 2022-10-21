@@ -10,7 +10,7 @@
 
 File: _printf.c
 
-Auths: JAMES BENEDICT
+Auths: ABBA SARAH
 
 JAMES BENEDICT @ ALX-SCHOOL 
 */
